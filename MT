@@ -1,0 +1,23 @@
+
+{
+  "greeting": "Hellu",
+  "name": "Mthu",
+  "greetingText": "I really like your name btw!",
+  "wishText": "Sinh nhật dzui dẻ nhe con chó", 
+  "text1": "Hôm nay sinh nhật thì sao",
+  "textInChatBox": "Chúc sớm có bồ, chúc luôn cùng nhau cợt nhả",
+  "sendButtonLabel": "Send",
+  "text2": "Định làm v hoi",
+  "text3": "Xong thôi, dẹp.",
+  "text4": "Thích làm cái khác",
+  "text4Adjective": "WOWW",
+  "text5Entry": "Bởi vì là,",
+  "text5Content": "You are WOWW",
+  "smiley": ":)",
+  "bigTextPart1": "S",
+  "bigTextPart2": "O",
+  "wishHeading": "Happy Birthday!",
+  "outroText": "Okay, Thích thì thích khum thích thì thích chứ mò lâu xễu.",
+  "replayText": "Xem lại nào.",
+  "outroSmiley": ":)"
+}
